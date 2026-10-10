@@ -18,16 +18,16 @@ module.exports = {
   SESSION_ID: settings.SESSION_ID || process.env.SESSION_ID || "",
   PREFIX: getConfig("PREFIX") || "." || settings.PREFIX,
   CHATBOT: getConfig("CHATBOT") || "on",
-  BOT_NAME: process.env.BOT_NAME || getConfig("BOT_NAME") || "ʟᴜᴄᴋʏ-xᴅ",
+  BOT_NAME: process.env.BOT_NAME || getConfig("BOT_NAME") || "Knight",
   MODE: getConfig("MODE") || process.env.MODE || "public",
   REPO: process.env.REPO || "https://github.com/Tomilucky218/Lucky-XD2",
   BAILEYS: process.env.BAILEYS || "@whiskeysockets/baileys",
 
   // ===== OWNER & DEVELOPER SETTINGS =====
-  OWNER_NUMBER: settings.OWNER_NUMBER || process.env.OWNER_NUMBER || "256789966218",
-  OWNER_NAME: process.env.OWNER_NAME || getConfig("OWNER_NAME") || "ʟᴜᴄᴋʏ ➋➊➑",
-  DEV: process.env.DEV || "256789966218",
-  DEVELOPER_NUMBER: '256789966218@s.whatsapp.net',
+  OWNER_NUMBER: settings.OWNER_NUMBER || process.env.OWNER_NUMBER || "254791215519",
+  OWNER_NAME: process.env.OWNER_NAME || getConfig("OWNER_NAME") || "Cephus",
+  DEV: process.env.DEV || "25491215519",
+  DEVELOPER_NUMBER: '254791215519@s.whatsapp.net',
   MENU_AUDIO_URL: process.env.MENU_AUDIO_URL || 'https://files.catbox.moe/3v5i11.mp3',
 NEWSLETTER_JID: process.env.NEWSLETTER_JID || '120363420656466131@newsletter',
 
@@ -38,7 +38,7 @@ NEWSLETTER_JID: process.env.NEWSLETTER_JID || '120363420656466131@newsletter',
   READ_MESSAGE: process.env.READ_MESSAGE || "false",
   REJECT_MSG: process.env.REJECT_MSG || "*📵 Calls are not allowed on this number unless you have permission. 🚫*",
   ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/4itzeu.jpg",
-  LIVE_MSG: process.env.LIVE_MSG || "> ʙᴏᴛ ɪs sᴘᴀʀᴋɪɴɢ ᴀᴄᴛɪᴠᴇ ᴀɴᴅ ᴀʟɪᴠᴇ\n\n\nᴋᴇᴇᴘ ᴜsɪɴɢ ✦ʟᴜᴄᴋʏ xᴅ✦ ғʀᴏᴍ ʟᴜᴄᴋʏ ᴛᴇᴄʜ ʜᴜʙ  ɪɴᴄ⚡\n\n\n*© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ\n\n> ɢɪᴛʜᴜʙ :* github.com/Tomilucky218/Lucky-XD2",
+  LIVE_MSG: process.env.LIVE_MSG || "> ʙᴏᴛ ɪs sᴘᴀʀᴋɪɴɢ ᴀᴄᴛɪᴠᴇ ᴀɴᴅ ᴀʟɪᴠᴇ\n\n\nᴋᴇᴇᴘ ᴜsɪɴɢ ✦Knight✦ ғʀᴏᴍ ʟᴜᴄᴋʏ ᴛᴇᴄʜ ʜᴜʙ ,& Cephusgaming ɪɴᴄ⚡\n\n\n*© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ\n\n> ɢɪᴛʜᴜʙ :* github.com/Tomilucky218/Lucky-XD2",
 
   // ===== REACTION & STICKER SETTINGS =====
   AUTO_REACT: process.env.AUTO_REACT || "false",
@@ -66,7 +66,7 @@ NEWSLETTER_JID: process.env.NEWSLETTER_JID || '120363420656466131@newsletter',
   PM_BLOCKER: process.env.PM_BLOCKER || "true",
 
   // ===== BOT BEHAVIOR & APPEARANCE =====
-  DESCRIPTION: process.env.DESCRIPTION || "*© Powered By Lucky Tech Hub*",
+  DESCRIPTION: process.env.DESCRIPTION || "*© Powered By Lucky Tech Hub & Cephusgaming*",
   PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
   ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
   AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "false",
