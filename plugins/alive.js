@@ -33,7 +33,7 @@ malvin({
             }).join("");
 
         const msg = `
-╭──❖ 「 *${toTinyCap("lucky xd status")}* 」 ❖─
+╭──❖ 「 *${toTinyCap("CEPHUSGAMING status")}* 」 ❖─
 │
 │ 👤 ʜɪ: *${pushname}*
 │ 🕓 ᴛɪᴍᴇ: *${currentTime}*
@@ -44,7 +44,7 @@ malvin({
 │
 ╰─────────❖
 
-✅ *Lucky is alive & operational!*
+✅ *CEPHUSGAMING HUB is alive & operational!*
 🚀 *System: Stable & running smooth!*
 ✨ *Thank you for checking in!*
         `.trim();
@@ -58,7 +58,7 @@ malvin({
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363420656466131@newsletter',
-                    newsletterName: 'LUCKY XD',
+                    newsletterName: 'CEPHUSGAMING',
                     serverMessageId: 143
                 }
             }
