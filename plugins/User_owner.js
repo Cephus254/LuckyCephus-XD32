@@ -1,8 +1,8 @@
 /*
-Project Name : LUCKY XMD
-Creator      : LUCKY 218 ( Mr Lucky 218)
+Project Name : BOT
+Creator      : CEPHUSGAMING 
 Repo         : https//github.com/Tomilucky218/Lucky-XD2
-Support      : wa.me/263714757857
+Support      : wa.me/254791215519
 */
 
 
